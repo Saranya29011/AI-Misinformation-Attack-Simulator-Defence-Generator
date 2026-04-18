@@ -1,5 +1,5 @@
 // ─── ADD YOUR NEWSDATA.IO API KEY HERE ──────────────────────
-
+const NEWS_API_KEY = "YOUR_NEWSDATA_API_KEY_HERE";
 // ────────────────────────────────────────────────────────────
 
 export async function getNews(_ignored) {
