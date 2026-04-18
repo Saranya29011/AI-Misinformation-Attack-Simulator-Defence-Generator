@@ -1,5 +1,5 @@
 // ─── ADD YOUR GROK (xAI) API KEY HERE ───────────────────────
-
+const GROK_API_KEY = "YOUR_GROK_API_KEY_HERE";
 // ────────────────────────────────────────────────────────────
 
 export async function callGrok(_ignored, systemPrompt, userPrompt) {
